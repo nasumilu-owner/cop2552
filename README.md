@@ -12,10 +12,11 @@ Professor: [Debbie Reid](https://www.sfcollege.edu/ite/contact/index)
 - [project 3](https://github.com/nasumilu-owner/cop2552/tree/main/project3) this program is designed to collect exercise
  activities from user input and aggregate those activities to show the total and average time spent for each activity
  and the total and average number of calories burned.
-- [project 4](https://github.com/nasumilu-owner/cop2552/tree/main/project4) This program read a plain text file of
+- [project 4](https://github.com/nasumilu-owner/cop2552/tree/main/project4) this program read a plain text file of
 historical hurricane information and allows the user to select from a `JComoBox`
 programmatically derived aggregate operations. The progject demonstrates a very basic chain-of-reponsiblity pattern and
 utilizes the java.util.streams package.
-- [project 5](https://github.com/nasumilu-owner/cop2552/tree/main/project5) *description needed*
+- [project 5](https://github.com/nasumilu-owner/cop2552/tree/main/project5) this project `Movie` text data from a file into
+an `ArrayList`; The list is mapped and grouped by there `Genre`; Additionally, this project has two view modes swing or console.
 
 [^1]:https://catalog.sfcollege.edu/preview_course.php?catoid=4&coid=1664&print
