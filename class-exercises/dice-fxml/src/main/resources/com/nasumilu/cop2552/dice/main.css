@@ -1,0 +1,22 @@
+.btn {
+	-fx-text-fill: white;
+	-fx-background-radius: 5,10;
+	-fx-padding: 10;
+	-fx-font-size: 14px;
+}
+
+#exitButton {
+	-fx-background-color: #e32727;
+}
+
+#exitButton:hover {
+	-fx-background-color: #991a1a;
+}
+
+#rollButton {
+	-fx-background-color: #85bf85;
+}
+
+#rollButton:hover {
+	-fx-background-color: #98d998;
+}
