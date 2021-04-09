@@ -19,5 +19,7 @@ programmatically derived aggregate operations. The progject demonstrates a very 
 utilizes the java.util.streams package.
 - [project 5](./project5/) this project `Movie` text data from a file into
 an `ArrayList`; The list is mapped and grouped by there `Genre`; Additionally, this project has two view modes swing or console.
+- [project 6](./project6/) a simple JavaFx project which reads `Accounts` information from a serialized file. The project required 
+authentication before showing them the account's information.
 
 [^1]:https://catalog.sfcollege.edu/preview_course.php?catoid=4&coid=1664&print
